@@ -1,2 +1,0 @@
-UserNam=xnanaxa
-pwd=testt232
