@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Hello Git test git
 
 added file to doc
@@ -12,3 +13,6 @@ Message added after the tagging
 add more
 
 some more text added
+=======
+Feature2
+>>>>>>> feature2
