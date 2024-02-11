@@ -5,6 +5,6 @@ added file to doc
 skip staged
 
 take the uinpute form user
-
-
 Addd code to file
+
+Message added after the tagging
