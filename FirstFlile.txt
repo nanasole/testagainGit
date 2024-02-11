@@ -1,15 +1,1 @@
-Hello Git test git
-
-added file to doc
-
-skip staged
-
-take the uinpute form user
-Addd code to file
-
-Message added after the tagging
-
-modification in feature1 added in file
-////
-////
-//more feature:
+Feature2
