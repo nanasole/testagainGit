@@ -3,3 +3,8 @@ Hello Git test git
 added file to doc
 
 skip staged
+
+take the uinpute form user
+
+
+sdfdf
