@@ -1,3 +1,5 @@
 Hello Git test git
 
 added file to doc
+
+skip staged
